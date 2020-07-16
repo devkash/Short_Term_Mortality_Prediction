@@ -8,12 +8,6 @@ In attempting to maximize the performance of the model, different combinations o
 
 Three sets of machine learning models, Logistic Regression, Multilayer Perceptron, Random Forest, and Support Vector Machine, were developed to predict patient mortality and each set included a different set of features.
 
-Feature Sets
-1. Scores from severity illness scores SAPSII, OSASIS, and APSIII
-2. Sub-scores from SAPSII, OSASIS, and APSIII
-3. Raw features
-
-
 ## Performance of Machine Learning models
 
 ### First Feature Set: Severity Illness Scores from SAPSII, OSASIS, and APSIII
