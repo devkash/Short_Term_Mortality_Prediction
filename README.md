@@ -1,6 +1,6 @@
 # Short Term Mortality Prediction
 
-## Goal
+## Overview
 
 The goal of this project is to improve the standard severity illness scoring systems by using the MIMIC-III dataset, of roughly 40,000 critical care patients, to develop a machine learning model that can accurately short term predict mortality in a set of ICU patients spanning a wide range of conditions and backgrounds.
 
