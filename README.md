@@ -8,7 +8,7 @@ In attempting to maximize the performance of the model, different combinations o
 
 Three sets of machine learning models, Logistic Regression, Multilayer Perceptron, Random Forest, and Support Vector Machine, are developed to predict patient mortality and each set is trained on a different set of features. The images below highlight the performances of all models.
 
-## Performance of Machine Learning models
+## Results
 
 ### First Feature Set: Severity Illness Scores from SAPSII, OSASIS, and APSIII
 ![](figures/Illness_scores/logistic_regression.png)
