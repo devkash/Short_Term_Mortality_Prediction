@@ -11,17 +11,21 @@ Three sets of machine learning models, Logistic Regression, Multilayer Perceptro
 ## Results
 
 ### First Feature Set: Severity Illness Scores from SAPSII, OSASIS, and APSIII
+#### ROC Curves
 ![](figures/Illness_scores/logistic_regression.png)
 ![](figures/Illness_scores/mlp.png)
 ![](figures/Illness_scores/random_forest.png)
 ![](figures/Illness_scores/svm.png)
+#### Confusion Matrix
 ![](figures/Illness_scores/confusion_matrix.png)
 
 ### Second Feature Set: Sub_scores from Severity Illness Scores
+#### ROC Curves
 ![](figures/Subscores/logistic_regression.png)
 ![](figures/Subscores/mlp.png)
 ![](figures/Subscores/random_forest.png)
 ![](figures/Subscores/svm.png)
+#### Confusion Matrix
 ![](figures/Subscores/confusion_matrix.png)
 
 ### Third Feature Set: Raw Measurements Recorded for patients
