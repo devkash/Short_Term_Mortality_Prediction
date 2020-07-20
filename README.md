@@ -8,26 +8,30 @@ In attempting to maximize the performance of the model, different combinations o
 
 Three sets of machine learning models, Logistic Regression, Multilayer Perceptron, Random Forest, and Support Vector Machine, are developed to predict patient mortality and each set is trained on a different set of features. The images below highlight the performances of all models.
 
+## List of All features
+
+![](features/listoffeatures.png)
+
 ## Results
 
 ### First Feature Set: Severity Illness Scores from SAPSII, OSASIS, and APSIII
 #### ROC Curves
-![](figures/Illness_scores/logistic_regression.png)
-![](figures/Illness_scores/mlp.png)
-![](figures/Illness_scores/random_forest.png)
-![](figures/Illness_scores/svm.png)
+![](performance_figures/Illness_scores/logistic_regression.png)
+![](performance_figures/Illness_scores/mlp.png)
+![](performance_figures/Illness_scores/random_forest.png)
+![](performance_figures/Illness_scores/svm.png)
 #### Confusion Matrix
-![](figures/Illness_scores/confusion_matrix.png)
+![](performance_figures/Illness_scores/confusion_matrix.png)
 
 ### Second Feature Set: Sub_scores from Severity Illness Scores
 #### ROC Curves
-![](figures/Subscores/logistic_regression.png)
-![](figures/Subscores/mlp.png)
-![](figures/Subscores/random_forest.png)
-![](figures/Subscores/svm.png)
+![](performance_figures/Subscores/logistic_regression.png)
+![](performance_figures/Subscores/mlp.png)
+![](performance_figures/Subscores/random_forest.png)
+![](performance_figures/Subscores/svm.png)
 #### Confusion Matrix
-![](figures/Subscores/confusion_matrix.png)
+![](performance_figures/Subscores/confusion_matrix.png)
 
 ### Third Feature Set: Raw Measurements Recorded for patients
 #### ROC Curve
-![](figures/Raw_features/all_models.png)
+![](performance_figures/Raw_features/all_models.png)
