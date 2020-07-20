@@ -29,4 +29,5 @@ Three sets of machine learning models, Logistic Regression, Multilayer Perceptro
 ![](figures/Subscores/confusion_matrix.png)
 
 ### Third Feature Set: Raw Measurements Recorded for patients
+#### ROC Curve
 ![](figures/Raw_features/all_models.png)
